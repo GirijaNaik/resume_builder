@@ -1,0 +1,5 @@
+django:(pip install django)
+django-rest-framework:(pip install djangorestframework)
+pdfkit:(pip install pdfkit)
+pytz:(pip install pytz)
+psycopg2:(pip install psycopg2)
